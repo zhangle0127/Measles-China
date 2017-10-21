@@ -13,7 +13,7 @@
 [Measles China](https://github.com/zhangle0127/Measles-China/blob/master/Measles/Measles_China.ipynb)
 
 ### Incidence and Death of Measles in China by 32 Provinces
-[Measles by 32 provinces](https://github.com/zhangle0127/Measles-China/blob/master/Measles/Measles_by_32_Provinces.ipynb)
+[Measles by 32 provinces](https://github.com/zhangle0127/Measles-China/blob/master/Measles/Incident_cases.ipynb)
 
 ### Predict Measles by ARIMA model
 [Measles Arima](https://github.com/zhangle0127/Measles-China/blob/master/Measles/Measles_ARIMA.ipynb)
